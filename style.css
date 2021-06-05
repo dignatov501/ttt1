@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+}
+body {
+    font-family: sans-serif;
+}
+body {
+    font-family: sans-serif;
+}
+main {
+background-color: #ff0000;
+}
+body {
+font-family: sans-serif;
+}
+nav a{
+text-decoration:none;
+border: 1px solid blue;
+border-radius: 5px;
+padding: 5px;
+margin: 5px;
+
+}
+header a{
+text-decoration: none;
+border: 1px solid blue;
+border-radius: 5px;
+padding: 5px;
+margin: 5px;
+}
+nav{
+padding: 5px;
+margin-top: 20px;
+text-align: center;
+
+}
+header{
+margin-left: 5px;
+margin-top: 10px;
+text-align: center;
+display:flex;
+justify-content: center;
+}
+.link-text{
+    color: white;
+}
